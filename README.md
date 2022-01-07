@@ -10,9 +10,9 @@ For training the models, we provide a labelled dataset of 31,962 tweets. The dat
 
 # Libraries
 
-pandas
-matplotlib
-seaborn
+pandas,
+matplotlib,
+seaborn,
 scikit-learn
 
 # Algorithm
